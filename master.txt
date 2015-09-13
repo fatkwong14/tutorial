@@ -1,0 +1,5 @@
+i am master piece
+name : master
+gender : unclassified
+rank : god
+total : 100
